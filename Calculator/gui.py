@@ -1,13 +1,5 @@
 import tkinter as tk
 
-# root = tk.Tk()
-# root.title("My Tkinter App")
-
-# label = tk.Label(root, text="Hello, Tkinter!")
-# label.pack()
-
-# root.mainloop()
-
 def button_click(number):
     current = entry.get()
     entry.delete(0, tk.END)
