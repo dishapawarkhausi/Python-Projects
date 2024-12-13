@@ -1,46 +1,33 @@
-Calculator Project
+# Calculator Project
 
-Description
-This project includes a simple calculator application implemented in Python. It features two versions:
+## Description
 
-Command-Line Calculator: A basic calculator that supports addition, subtraction, multiplication, and division operations.
+This project contains a basic calculator implemented in two parts:
+1. **Console Calculator**: A simple text-based calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+2. **GUI Calculator**: A graphical user interface (GUI) calculator built using `tkinter` that allows users to perform calculations through a visual interface.
 
-GUI Calculator: A graphical user interface (GUI) version using tkinter, offering a more interactive approach to perform basic arithmetic operations.
+## Features
 
-Installation
-Clone this repository to your local machine:
+- **Console Calculator**: 
+  - Performs addition, subtraction, multiplication, and division.
+  - Handles user input through the command line.
+  - Includes error handling for invalid inputs.
 
-bash
-Copy code
-git clone https://github.com/dishapawarkhausi/Python-Projects.git
-Make sure Python is installed on your system.
+- **GUI Calculator**:
+  - Built using `tkinter`.
+  - Displays buttons for digits and arithmetic operations.
+  - Includes an entry field for displaying inputs and results.
 
-Install tkinter for the GUI version (if not already installed):
+## Installation
 
-bash
-pip install tk
+To run the project, you need Python installed on your machine. If you don't have it installed, download it from [python.org](https://www.python.org/).
 
-Usage
-Command-Line Calculator
-To run the command-line calculator:
+### Running the Console Calculator
 
-bash
+1. Download or clone the repository.
+2. Open the terminal/command prompt.
+3. Navigate to the project folder.
+4. Run the script:
+
+```bash
 python main.py
-Follow the on-screen prompts to perform basic arithmetic operations.
-
-GUI Calculator
-To run the GUI-based calculator:
-
-bash
-python gui.py
-You can click the buttons for digits and operators to perform calculations.
-
-Contributing
-Feel free to fork this repository, submit issues, and make pull requests for improvements!
-
-License
-This project is open-source and free to use.
-
-Contact
-For any queries or suggestions, feel free to open an issue on this GitHub repository.
-
