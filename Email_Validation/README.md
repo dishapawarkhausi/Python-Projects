@@ -16,9 +16,9 @@ bash
 python email_validation.py
 Follow the on-screen messages to check if the email is valid or invalid.
 
-License
+License:
 This project is open-source and free to use.
 
-Contact
+Contact:
 For any questions, feel free to open an issue or contact the project maintainer.
 
