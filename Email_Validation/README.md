@@ -1,24 +1,18 @@
-Email Validation Project
+# Email Validation Project
 
-Description:
-This project validates email addresses based on certain conditions. The email is considered valid if:
+## Description
 
-The length is at least 6 characters.
-The first character is alphabetic.
-There is exactly one "@" symbol.
-The domain part ends with a dot (".") but only after at least one character.
-It does not contain spaces or uppercase letters (except where appropriate).
+This Python project validates email addresses based on several conditions:
 
-Usage:
-Run the script and enter an email to validate:
+- The email length must be at least 6 characters.
+- The first character must be alphabetic.
+- The email must contain exactly one "@" symbol.
+- The domain part must end with a dot (".").
+- The email should not contain spaces, uppercase letters, or invalid characters.
 
-bash
+## Usage
+
+Run the script and input an email to validate:
+
+```bash
 python email_validation.py
-Follow the on-screen messages to check if the email is valid or invalid.
-
-License:
-This project is open-source and free to use.
-
-Contact:
-For any questions, feel free to open an issue or contact the project maintainer.
-
