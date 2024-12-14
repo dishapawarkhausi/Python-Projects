@@ -31,3 +31,4 @@ To run the project, you need Python installed on your machine. If you don't have
 
 ```bash
 python main.py
+python gui.py
