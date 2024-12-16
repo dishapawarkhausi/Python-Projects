@@ -24,5 +24,5 @@ This To-Do List application allows you to manage tasks. It provides both a comma
    ```bash
    python main.py
 4. Run the gui.py for the GUI-based To-Do List:
-   '''bash
+
    python gui.py
