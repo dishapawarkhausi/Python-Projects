@@ -23,3 +23,6 @@ This To-Do List application allows you to manage tasks. It provides both a comma
 3. Run the `main.py` for the console-based To-Do List:
    ```bash
    python main.py
+4. Run the gui.py for the GUI-based To-Do List:
+   '''bash
+   python gui.py
