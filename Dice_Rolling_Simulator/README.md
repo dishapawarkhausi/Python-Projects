@@ -29,7 +29,7 @@ A Python-based dice rolling simulator that generates random dice rolls and displ
 2. Navigate to the project directory.
 3. Run the script using the command:
    ```bash
-   python dice_simulator.py
+   python dice_rolling_simulator.py
    ```
 
 ---
