@@ -33,7 +33,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
+   git clone https://github.com/dishapawarkhausi/voice-assistant.git
    cd voice-assistant
    ```
 
