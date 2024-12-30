@@ -17,9 +17,3 @@ A simple text translation application built using Python and Tkinter, leveraging
 - Required Python libraries:
   - `tkinter` (comes pre-installed with Python).
   - `googletrans`.
-  - 
-## File Structure
-project/
-│
-├── translator.py       # Main application script
-├── README.md           # Project documentation
