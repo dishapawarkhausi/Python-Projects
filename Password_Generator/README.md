@@ -14,7 +14,7 @@ This **Password Generator** is a simple Python script that creates strong and se
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dishapawar872013/password-generator.git
+   git clone https://github.com/dishapawarkhausi/password-generator.git
    cd password-generator
    ```
 2. Run the script:
