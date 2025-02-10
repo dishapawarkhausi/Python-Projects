@@ -25,7 +25,7 @@ yt-dlp
 1. Clone this repository:  
    ```bash
    git clone https://github.com/dishapawarkhausi/python-projects.git
-   cd python-projects/youtube-downloader
+   cd python-projects/youtube-videos-downloader
    ```
 
 2. Install dependencies:  
