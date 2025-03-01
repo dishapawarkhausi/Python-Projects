@@ -21,7 +21,6 @@ pip install pillow
 1. Clone this repository:
 ```bash
 git clone https://github.com/dishapawarkhausi/python-projects.git
-cd python-projects/text_to_handwriting
 ```
 
 2. Navigate to the project directory:
