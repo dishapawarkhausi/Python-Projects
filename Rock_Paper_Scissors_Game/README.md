@@ -25,7 +25,7 @@ git clone https://github.com/dishapawarkhausi/python-projects.git
 ```
 Then, navigate to the project folder:  
 ```bash
-cd python-projects/Rock_Paper_Scissors_Game
+cd Python-Projects/Rock_Paper_Scissors_Game
 ```
 
 ### 3️⃣ Install Dependencies  
